@@ -367,3 +367,11 @@ YOLOv4是一种单阶段目标检测算法，该算法在YOLOv3的基础上添�
 
 ## 63. YOLO的后处理问题。
 
+## 64. Attention和self-Attention的区别
+
+## 65. 对比学习
+
+## 66. Transform
+
+## 67. 常见的loss函数
+
